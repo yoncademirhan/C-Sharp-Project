@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\bin\Debug\Akaryakit_Proje_Console.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\bin\Debug\Akaryakit_Proje_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\bin\Debug\Akaryakit_Proje_Console.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\obj\Debug\Akaryakit_Proje_Console.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\obj\Debug\Akaryakit_Proje_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\obj\Debug\Akaryakit_Proje_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\obj\Debug\Akaryakit_Proje_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Akaryakit_Proje_Console\Akaryakit_Proje_Console\obj\Debug\Akaryakit_Proje_Console.pdb
