@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\bin\Debug\Bilgi_Yarismasi_Proje.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Bilgi_Yarismasi_Proje\Bilgi_Yarismasi_Proje\obj\Debug\Bilgi_Yarismasi_Proje.pdb
