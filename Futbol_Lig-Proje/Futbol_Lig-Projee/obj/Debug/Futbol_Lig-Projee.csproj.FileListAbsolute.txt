@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\bin\Debug\Futbol_Lig-Projee.exe.config
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\bin\Debug\Futbol_Lig-Projee.exe
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\bin\Debug\Futbol_Lig-Projee.pdb
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\obj\Debug\Futbol_Lig-Projee.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\obj\Debug\Futbol_Lig-Projee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\obj\Debug\Futbol_Lig-Projee.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\obj\Debug\Futbol_Lig-Projee.exe
+C:\Users\Yonca\Desktop\DersTekrar\Futbol_Lig-Projee\Futbol_Lig-Projee\obj\Debug\Futbol_Lig-Projee.pdb
