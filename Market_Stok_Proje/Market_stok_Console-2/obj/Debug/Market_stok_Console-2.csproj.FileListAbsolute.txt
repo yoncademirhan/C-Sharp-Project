@@ -1,0 +1,16 @@
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.exe
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.exe
+C:\Users\Yonca\Desktop\CAytacHoca\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\obj\Debug\Market_stok_Console-2.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Market_stok_Console-2\Market_stok_Console-2\bin\Debug\Market_stok_Console-2.pdb
